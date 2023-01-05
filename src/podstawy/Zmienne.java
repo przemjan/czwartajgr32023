@@ -44,9 +44,11 @@ public class Zmienne {
         int workHoursPerYear = hours * days * weeks;
 
 
-        //  https://github.com/przemjan/czawartajgr32022
+        //  https://github.com/przemjan/czwartajgr32023
 
+        // \\ubuckp
 
+        // 1, 2, 5, 6, 7, 8, 13, 16, 20, 21
 
     }
 }
